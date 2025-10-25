@@ -2,7 +2,6 @@
 //Author: Ben Levintan, ID: 318181831
 
 public class hw4 {
-
     public static int count2(int num){
 
         if(num == 0)                            //basic result of number with 0 integers
